@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-shop/static/css/main.5a5c36ba.css",
+    "main.js": "/react-shop/static/js/main.4d3e9361.js",
+    "static/media/1.jpeg": "/react-shop/static/media/1.33632aab50b7507eecc9.jpeg",
+    "index.html": "/react-shop/index.html",
+    "main.5a5c36ba.css.map": "/react-shop/static/css/main.5a5c36ba.css.map",
+    "main.4d3e9361.js.map": "/react-shop/static/js/main.4d3e9361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a5c36ba.css",
+    "static/js/main.4d3e9361.js"
+  ]
+}
